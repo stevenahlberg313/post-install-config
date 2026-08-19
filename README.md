@@ -30,8 +30,8 @@ This project will demonstrate and document how to setup osTicket post-installati
   - "Agents" are staff members with the necessary permissions to manage and resolve tickets. 
 - Establish "Users".
   - "Users" are individuals who submit tickets for resolution. 
-- Establish a "SLA" plan.
-  - "SLA" (Service Level Agreements) is a timeframe within which tickets of different priorities are expected to be closed.
+- Establish an SLA plan.
+  - SLA (Service Level Agreements) is a timeframe within which tickets of different priorities are expected to be closed.
 - Establish "Help Topics"
   - "Help Topics" are groupings of common issues that users can use to categorize their requests, facilitating how tickets are routed and handled. 
 
