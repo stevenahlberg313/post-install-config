@@ -15,7 +15,7 @@ This project will demonstrate and document how to setup osTicket post-installati
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Enterprise multi-session, version 22H2 - x64 Gen2
 
 <h2>Post-Install Configuration Objectives</h2>
 
