@@ -20,7 +20,7 @@ This project will demonstrate and document how to setup osTicket post-installati
 <h2>Post-Install Configuration Objectives</h2>
 
 - Implement "Roles". "Roles" determine what permissions an individual agent may have relating to a "Department" they are part of.
-- Item 2
+- Implement "Departments". "Departments" organize and route tickets, facilitating they are retrievable to and cared for by the appropriate support agents.
 - Item 3
 - Item 4
 - Item 5
