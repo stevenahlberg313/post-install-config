@@ -28,7 +28,8 @@ This project will demonstrate and document how to setup osTicket post-installati
 - Authorize anyone the right to create and submit a ticket.
 - Implement "Agents"
   - "Agents" are staff members with the necessary permissions to manage and resolve tickets. 
-- Item 6
+- Implement "Users".
+  - "Users" are individuals who submit tickets for resolution. 
 - Item 7
 - Item 8
 
