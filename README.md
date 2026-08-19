@@ -26,7 +26,8 @@ This project will demonstrate and document how to setup osTicket post-installati
 - Implement "Teams"
   - "Teams" allow support agents from different departments to collaborate on and resolve tickets.
 - Authorize anyone the right to create and submit a ticket.
-- Item 5
+- Implement "Agents"
+  - "Agents" are staff members with the necessary permissions to manage and resolve tickets. 
 - Item 6
 - Item 7
 - Item 8
