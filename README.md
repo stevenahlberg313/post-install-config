@@ -19,11 +19,15 @@ This project will demonstrate and document how to setup osTicket post-installati
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
+- Implement "Roles".
+  "Roles" determine what permissions an individual agent may have relating to a "Department" they are part of.
 - Item 2
 - Item 3
 - Item 4
 - Item 5
+- Item 6
+- Item 7
+- Item 8
 
 <h2>Configuration Steps</h2>
 
