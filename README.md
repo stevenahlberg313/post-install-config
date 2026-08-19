@@ -21,8 +21,8 @@ This project will demonstrate and document how to setup osTicket post-installati
 
 - Implement "Roles". "Roles" determine the permissions an Agent has within their "Department(s)".
 - Implement "Departments". "Departments" organize and route tickets, facilitating their retrieval and care by the appropriate support agents.
-- Authorize anyone the right to create and submit a ticket. 
-- Implement "Teams" "Teams" allow support agents from different departments to collaborate on and resolve tickets. 
+- Implement "Teams" "Teams" allow support agents from different departments to collaborate on and resolve tickets.
+- Authorize anyone the right to create and submit a ticket.
 - Item 5
 - Item 6
 - Item 7
