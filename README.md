@@ -232,20 +232,25 @@ The seventh objective was to establish three SLA plans. To do that, from the Adm
 <img width="959" height="299" alt="Screenshot 2026-08-20 115530" src="https://github.com/user-attachments/assets/c78a65f6-3ceb-4f59-8ba9-2525a74cd685" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The three SLA plans I needed to establish were:
+  - Sev-A Grace Period: 1 hour, Schedule: 24/7.
+  - Sev-B Grace Period: 4 hours, Schedule: 24/7.
+  - Sev-C Grace Period: 8 hours, Business Hours/ 9:00 am- 5:00 pm.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" height="662" alt="Screenshot 2026-08-20 120847" src="https://github.com/user-attachments/assets/73b658ed-3c66-4837-96fe-00addc77e43b" />
+<img width="957" height="658" alt="Screenshot 2026-08-20 120957" src="https://github.com/user-attachments/assets/aa18bcbc-7cf6-4970-8159-62c21d7da181" />
+<img width="962" height="662" alt="Screenshot 2026-08-20 121115" src="https://github.com/user-attachments/assets/e8ec0bcd-5bf0-4864-ab89-97cce5dd6d7d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+All three SLA plans were successfully established.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="960" height="418" alt="Screenshot 2026-08-20 121129" src="https://github.com/user-attachments/assets/2373e22e-9fab-4734-90c4-4179706c0015" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
