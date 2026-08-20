@@ -137,12 +137,12 @@ I named the team "Online Banking" and clicked "Create Team".
 <img width="958" height="682" alt="Screenshot 2026-08-20 103122" src="https://github.com/user-attachments/assets/41c96f65-4e7c-4db5-bcb1-2526142f7349" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Back on the "Teams" page, we could see that the "Online Banking" team had been successfully established.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="961" height="329" alt="Screenshot 2026-08-20 103530" src="https://github.com/user-attachments/assets/de09cfd5-6bab-4fd8-bb9d-251502522310" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
