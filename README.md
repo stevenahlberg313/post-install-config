@@ -153,12 +153,12 @@ The fourth objective was to allow anyone to create tickets. To accomplish that, 
 <img width="958" height="684" alt="Screenshot 2026-08-20 104122" src="https://github.com/user-attachments/assets/f7c3b6d4-0768-4053-8444-58d33c277e7e" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The fifth objective was to establish two Agents. To do so, from the Admin panel, I clicked "Agents" and "Add New Agent".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="956" height="342" alt="Screenshot 2026-08-20 105343" src="https://github.com/user-attachments/assets/c4db35ab-66d4-4e17-94f0-f936ea39fe5d" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
