@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 This project will demonstrate and document how to setup osTicket post-installation in an example setting. 
-<p>This project is a continuation of my osTicket Installation project. As such this project has bee conducted on the same Virtual Machine.<br />
+<p>This project is a continuation of my osTicket Installation project. As such this project has been conducted on the same Virtual Machine.<br />
 
 
 
