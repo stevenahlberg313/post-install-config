@@ -224,12 +224,12 @@ Both were successfully fabricated.
 <img width="960" height="398" alt="Screenshot 2026-08-20 114407" src="https://github.com/user-attachments/assets/0eaaaa35-524c-465d-b507-41b406eb1f97" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The seventh objective was to establish three SLA plans. To do that, from the Admin panel, I clicked "Manage", "SLA", and "Create New SLA".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="959" height="299" alt="Screenshot 2026-08-20 115530" src="https://github.com/user-attachments/assets/c78a65f6-3ceb-4f59-8ba9-2525a74cd685" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
