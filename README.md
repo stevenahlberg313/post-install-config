@@ -161,7 +161,7 @@ The fifth objective was to establish two Agents. To do so, from the Admin panel,
 <img width="956" height="342" alt="Screenshot 2026-08-20 105343" src="https://github.com/user-attachments/assets/c4db35ab-66d4-4e17-94f0-f936ea39fe5d" />
 </p>
 <p>
-I filled out the necessary information for both of my new agents.
+I filled out the necessary information and passwords for both of my new agents.
   - The first agent will be Theresa. She is in the SysAdmin department, her role will be Supreme Admin, and is on the Online Banking team. Clicking "Create" finished this agents creation.
 </p>
 <br />
@@ -179,6 +179,7 @@ I filled out the necessary information for both of my new agents.
 
 <p>
 <img width="965" height="956" alt="Screenshot 2026-08-20 111748" src="https://github.com/user-attachments/assets/6627d6d2-21ca-4dd5-8481-8694a05d0516" />
+<img width="957" height="951" alt="image" src="https://github.com/user-attachments/assets/85416230-d6aa-4dfe-bdd8-ea090ab6354a" />
 <img width="961" height="536" alt="Screenshot 2026-08-20 111808" src="https://github.com/user-attachments/assets/e39e79b8-a7d5-4d2f-8273-bcb7779e2e03" />
 </p>
 <p>
