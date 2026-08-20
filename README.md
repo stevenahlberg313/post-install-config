@@ -129,7 +129,7 @@ The third objective was to establish a "Team". To do so, from the Admin panel, I
 <img width="960" height="300" alt="Screenshot 2026-08-20 101948" src="https://github.com/user-attachments/assets/920b5807-9e2d-41c2-8074-c6553934a03f" />
 </p>
 <p>
-I named the team and clicked "Create Team".
+I named the team "Online Banking" and clicked "Create Team".
 </p>
 <br />
 
