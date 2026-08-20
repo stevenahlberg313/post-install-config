@@ -168,6 +168,7 @@ I filled out the necessary information for both of my new agents.
 
 <p>
 <img width="956" height="956" alt="Screenshot 2026-08-20 110554" src="https://github.com/user-attachments/assets/26484be3-6e2c-4462-8d7d-bb68c1e2345c" />
+<img width="957" height="951" alt="image" src="https://github.com/user-attachments/assets/5a163e90-3400-436f-b99b-51d1fbcf04fe" />
 <img width="957" height="539" alt="Screenshot 2026-08-20 110638" src="https://github.com/user-attachments/assets/febc772e-0e79-4e1f-8d1e-e938c8b2bd0e" />
 <img width="956" height="425" alt="Screenshot 2026-08-20 110701" src="https://github.com/user-attachments/assets/9a3a6a52-a5a7-4c2c-bea9-ea4a098580ac" />
 </p>
