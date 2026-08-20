@@ -3,7 +3,8 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This project will demonstrate and document how to setup osTicket post-installation in an example setting. <br />
+This project will demonstrate and document how to setup osTicket post-installation in an example setting. 
+This project is a continuation of my osTicket Installation project. As such this project has bee conducted on the same Virtual Machine.<br />
 
 
 
@@ -35,9 +36,7 @@ This project will demonstrate and document how to setup osTicket post-installati
 - Establish "Help Topics"
   - "Help Topics" are groupings of common issues that users can use to categorize their requests, facilitating how tickets are routed and handled. 
 
-<h2>Configuration Steps</h2>
-<p> 
-This project is a continuation of my osTicket Installation project. As such this project has bee conducted on the same Virtual Machine.  
+<h2>Configuration Steps</h2>  
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
