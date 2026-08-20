@@ -161,28 +161,33 @@ The fifth objective was to establish two Agents. To do so, from the Admin panel,
 <img width="956" height="342" alt="Screenshot 2026-08-20 105343" src="https://github.com/user-attachments/assets/c4db35ab-66d4-4e17-94f0-f936ea39fe5d" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I filled out the necessary information for both of my new agents.
+  - The first agent will be Theresa. She is in the SysAdmin department, her role will be Supreme Admin, and is on the Online Banking team. Clicking "Create" finished this agents creation.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="956" height="956" alt="Screenshot 2026-08-20 110554" src="https://github.com/user-attachments/assets/26484be3-6e2c-4462-8d7d-bb68c1e2345c" />
+<img width="957" height="539" alt="Screenshot 2026-08-20 110638" src="https://github.com/user-attachments/assets/febc772e-0e79-4e1f-8d1e-e938c8b2bd0e" />
+<img width="956" height="425" alt="Screenshot 2026-08-20 110701" src="https://github.com/user-attachments/assets/9a3a6a52-a5a7-4c2c-bea9-ea4a098580ac" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  - Next came Valerie. She is in the Support department and her role will be "View Only" She will not be on any teams for now. Clicking "Create" finished this agents creation.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="965" height="956" alt="Screenshot 2026-08-20 111748" src="https://github.com/user-attachments/assets/6627d6d2-21ca-4dd5-8481-8694a05d0516" />
+<img width="961" height="536" alt="Screenshot 2026-08-20 111808" src="https://github.com/user-attachments/assets/e39e79b8-a7d5-4d2f-8273-bcb7779e2e03" />
+</p>
+<p>
+Both of my new agents had been successfully established.
+</p>
+<br />
+
+<p>
+<img width="959" height="398" alt="Screenshot 2026-08-20 111837" src="https://github.com/user-attachments/assets/2c1b7556-1e29-48c1-99e1-4fbfa8e13b62" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
