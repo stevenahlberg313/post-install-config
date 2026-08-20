@@ -253,20 +253,29 @@ All three SLA plans were successfully established.
 <img width="960" height="418" alt="Screenshot 2026-08-20 121129" src="https://github.com/user-attachments/assets/2373e22e-9fab-4734-90c4-4179706c0015" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The eighth objective was to establish five Help Topics. To accomplish this, from the Admin panel, I clicked "Manage", Help Topics", and "Create New Help Topic".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="957" height="418" alt="Screenshot 2026-08-20 121816" src="https://github.com/user-attachments/assets/2d68cb3f-ff8b-442f-bdc4-745fbc80b85a" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The five Help Topics I needed to establish were:
+  - Business Critical Outage (Parent Topic: Report a Problem)
+  - Personal Computer Issues (Parent Topic: Report a Problem)
+  - Equipment Request (Parent Topic: General Inquiry)
+  - Password Reset (Parent Topic: Report a Problem)
+  - Other (Parent Topic: General Inquiry)
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="959" height="632" alt="Screenshot 2026-08-20 122405" src="https://github.com/user-attachments/assets/87c8bd72-799e-4a9e-8d48-bbd4948b6101" />
+<img width="958" height="635" alt="Screenshot 2026-08-20 122647" src="https://github.com/user-attachments/assets/ef9a3438-be9d-46ac-9f91-3cac28036b68" />
+<img width="959" height="634" alt="Screenshot 2026-08-20 122844" src="https://github.com/user-attachments/assets/1e826223-71f2-4346-b478-2d33a2c5a4dd" />
+<img width="957" height="626" alt="Screenshot 2026-08-20 123122" src="https://github.com/user-attachments/assets/efb4aa51-00b3-4a97-b90d-f70fd272cd11" />
+<img width="959" height="632" alt="Screenshot 2026-08-20 123236" src="https://github.com/user-attachments/assets/69f055fe-9a31-42da-8e9c-01809b65d8cb" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
