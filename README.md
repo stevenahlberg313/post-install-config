@@ -117,7 +117,7 @@ The new department SysAdmins had been successfully added.
 <br />
 
 <p>
-<img width="959" height="394" alt="Screenshot 2026-08-20 101030" src="https://github.com/user-attachments/assets/ce84cecc-9ec0-4839-a472-d9ab741697b2" />
+<img width="959" height="394" alt="Screenshot 2026-08-20 101030" src="https://github.com/user-attachments/assets/bb20a911-6764-4a86-9df1-0d158ebcee04" />
 
 </p>
 <p>
