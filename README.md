@@ -79,6 +79,9 @@ In "Name" I put "Supreme Admin". As for permissions, I granted all permissions.
 <p>
 <img width="958" height="571" alt="Screenshot 2026-08-20 094545" src="https://github.com/user-attachments/assets/44f705c8-ea47-424d-a7d3-c1e7f2386657" />
 <img width="955" height="706" alt="Screenshot 2026-08-20 094736" src="https://github.com/user-attachments/assets/8c18efd8-7456-4815-bc2b-b25c4a2e03de" />
+<img width="962" height="558" alt="Screenshot 2026-08-20 095211" src="https://github.com/user-attachments/assets/50aa3c65-f50f-4495-bc6e-6281a13fb1b0" />
+<img width="954" height="404" alt="Screenshot 2026-08-20 095224" src="https://github.com/user-attachments/assets/8f77509e-7cbd-4593-872e-f6941ca4c20c" />
+
 
 </p>
 <p>
