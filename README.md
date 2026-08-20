@@ -37,8 +37,11 @@ This project will demonstrate and document how to setup osTicket post-installati
   - "Help Topics" are groupings of common issues that users can use to categorize their requests, facilitating how tickets are routed and handled. 
 
 <h2>Configuration Steps</h2>  
+
+<p> To begin, I navigated to http://localhost/osTicket/scp/login.php , and logged in with the Admin account I had made in the previous project. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="2546" height="524" alt="Screenshot 2026-08-20 085946" src="https://github.com/user-attachments/assets/e0c14403-b54c-427f-9133-3acb520ae526" />
+/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
