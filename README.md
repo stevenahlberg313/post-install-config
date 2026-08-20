@@ -44,7 +44,7 @@ This project will demonstrate and document how to setup osTicket post-installati
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Upon login, osTicket sends me to the "Agent Panel". To make the desired changes, I switched over to the "Admin Panel" by clicking "Admin Panel" in the top right of the window.
 </p>
 <br />
 
