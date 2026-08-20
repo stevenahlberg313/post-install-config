@@ -41,7 +41,7 @@ This project will demonstrate and document how to setup osTicket post-installati
 <p> To begin, I navigated to http://localhost/osTicket/scp/login.php , and logged in with the Admin account I had made in the previous project. 
 <p>
 <img <img width="2546" height="524" alt="Screenshot 2026-08-20 085946" src="https://github.com/user-attachments/assets/e0c14403-b54c-427f-9133-3acb520ae526" />
-/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
