@@ -129,12 +129,12 @@ The third objective was to establish a "Team". To do so, from the Admin panel, I
 <img width="960" height="300" alt="Screenshot 2026-08-20 101948" src="https://github.com/user-attachments/assets/920b5807-9e2d-41c2-8074-c6553934a03f" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+I named the team and clicked "Create Team".
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="682" alt="Screenshot 2026-08-20 103122" src="https://github.com/user-attachments/assets/41c96f65-4e7c-4db5-bcb1-2526142f7349" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
