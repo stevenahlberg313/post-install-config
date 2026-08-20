@@ -72,12 +72,14 @@ The first objective I had was to establish a "Role". To do so, from the Admin pa
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In "Name" I put "Supreme Admin". As for permissions, I granted all permissions.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="958" height="571" alt="Screenshot 2026-08-20 094545" src="https://github.com/user-attachments/assets/44f705c8-ea47-424d-a7d3-c1e7f2386657" />
+<img width="955" height="706" alt="Screenshot 2026-08-20 094736" src="https://github.com/user-attachments/assets/8c18efd8-7456-4815-bc2b-b25c4a2e03de" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
